@@ -11,7 +11,7 @@ This repository contains Arduino sketches demonstrating basic communication prot
   - Sends and receives data between Arduino boards via I2C.
   - Demonstrates how to configure the Arduino as a master or a slave in an I2C setup.
 
-### 2. 'multiple_master_multiple_slave.ino'
+### 2. `multiple_master_multiple_slave.ino`
 
 This Arduino sketch demonstrates a more complex I2C communication setup, involving multiple master and multiple slave devices. It illustrates how to manage communication between several Arduinos functioning as either masters or slaves on the same I2C bus. This example is suitable for users who want to explore advanced I2C configurations with multiple devices.
 
